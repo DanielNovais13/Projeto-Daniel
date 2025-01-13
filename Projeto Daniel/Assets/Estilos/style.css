@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+h1#Titulo {
+    text-align: center;
+    background-color: red;
+    font-size: 70px;
+    margin-top: -10px;
+    padding: 30px;
+    margin-right: -10px;
+    margin-left: -10px;
+    
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+
+header {
+
+}
+
+a#a1 {
+    text-decoration: none;
+    background-color: gray;
+    color: black;
+    padding: 50px;
+    border-radius: 5px;
+    margin: 30px;
+}
+
+
+a#a {
+    margin-right: 10px;
+}
